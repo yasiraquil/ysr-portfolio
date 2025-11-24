@@ -7,8 +7,9 @@ import Projects from "@/components/Projects";
 import ImpactMetrics from "@/components/ImpactMetrics";
 import Achievements from "@/components/Achievements";
 import Contact from "@/components/Contact";
-
 import CodingProfile from "@/components/CodingProfile";
+import { Analytics } from "@vercel/analytics/react";
+
 
 export default function Home() {
   return (
@@ -23,6 +24,8 @@ export default function Home() {
       <ImpactMetrics />
       <Achievements />
       <Contact />
+      <Analytics />
+
     </main>
   );
 }
