@@ -77,13 +77,9 @@ export default function CodingProfile() {
 
                 {/* Optional: Add a call to action or link to profiles */}
                 <div className="mt-6 flex justify-center gap-6 font-mono text-sm">
-                    <a href="https://leetcode.com/u/go0hDC9f/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-slate-400 hover:text-orange-500 transition-colors">
+                    <a href="https://leetcode.com/u/yasir_aquil/" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-slate-400 hover:text-orange-500 transition-colors">
                         <ExternalLink size={16} />
                         <span>leetcode_profile</span>
-                    </a>
-                    <a href="https://www.codechef.com/users/yasir_aquil" target="_blank" rel="noopener noreferrer" className="flex items-center gap-2 text-slate-400 hover:text-orange-500 transition-colors">
-                        <ExternalLink size={16} />
-                        <span>codechef_profile</span>
                     </a>
                 </div>
             </motion.div>
