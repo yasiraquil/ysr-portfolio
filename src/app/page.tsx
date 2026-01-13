@@ -19,7 +19,7 @@ export default function Home() {
       <Journey />
       <Specialisations />
       <Skills />
-      <CodingProfile />
+      {/* <CodingProfile /> */}
       <Projects />
       <ImpactMetrics />
       <Achievements />

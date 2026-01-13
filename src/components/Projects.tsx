@@ -19,7 +19,7 @@ const projects = [
         subtitle: "All-in-One AI Platform",
         description: "An AI workspace automating content drafting and image utilities, cutting manual effort by 4–5x. Features Clerk authentication and tiered user plans.",
         tags: ["React", "Node.js", "Express", "Tailwind", "Vercel"],
-        links: { demo: "https://draw-app-frontend-gamma.vercel.app", github: "https://github.com/yasiraquil?tab=repositories" },
+        links: { demo: "https://ai-station-frontend.vercel.app/", github: "https://github.com/yasiraquil/ai-station" },
         color: "text-purple-400",
         permissions: "drwxr-xr-x",
         size: "12.5MB"
@@ -39,7 +39,7 @@ const projects = [
         subtitle: "AI Startup Evaluation Tool",
         description: "Built ML-powered startup evaluation tool using Python, TensorFlow, and NLP for document analysis. Implemented React.js frontend with file upload, PDF parsing, and automated scoring algorithms.",
         tags: ["Python", "TensorFlow", "NLP", "React.js"],
-        links: { demo: "#", github: "https://github.com/yasiraquil" },
+        links: { demo: "#", github: "https://github.com/yasiraquil/pitch-deck-analyser" },
         color: "text-red-400",
         permissions: "drwxr-xr-x",
         size: "3.5MB"
@@ -49,7 +49,7 @@ const projects = [
         subtitle: "Live GPS Tracking System",
         description: "Built Node.js server with Socket.IO for live GPS tracking, handling 100+ concurrent WebSocket connections. Implemented Redis for session management and MongoDB for location history with GeoJSON indexing.",
         tags: ["Node.js", "Socket.IO", "Redis", "MongoDB"],
-        links: { demo: "#", github: "https://github.com/yasiraquil" },
+        links: { demo: "https://liv-tracker.onrender.com/", github: "https://github.com/yasiraquil/Liv-Tracker" },
         color: "text-yellow-400",
         permissions: "drwxr-xr-x",
         size: "2.1MB"

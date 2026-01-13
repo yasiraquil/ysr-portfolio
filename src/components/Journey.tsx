@@ -7,9 +7,9 @@ const timelineItems = [
     {
         type: "experience",
         role: "Software Developer Intern",
-        company: "SITG",
-        location: "Remote, France",
-        period: "Jun 2025 - Jul 2025",
+        company: "Growage",
+        location: "Delhi, India",
+        period: "Nov 2025 - Dec 2025",
         description: [
             "Developed an AI self-discovery platform capable of ingesting 10k+ data points.",
             "Reduced latency by 40% using Vercel AI SDK and optimized database queries.",
@@ -18,9 +18,21 @@ const timelineItems = [
     },
     {
         type: "experience",
+        role: "Ethical Hacking and Penetration Testing Intern",
+        company: "CDAC, Noida",
+        location: "Remote",
+        period: "Jul 2025 - Aug 2025",
+        description: [
+            "Conducted vulnerability assessments and penetration testing as part of the Cyber Gyan Project.",
+            "Analyzed network traffic and protocols using Wireshark to identify security loopholes.",
+            "Gained hands-on experience in ethical hacking methodologies and system hardening."
+        ]
+    },
+    {
+        type: "experience",
         role: "Web Developer Intern",
         company: "Aerialbots - IIF",
-        location: "Delhi, India",
+        location: "Onsite,Delhi, India",
         period: "Sep 2024 - Nov 2024",
         description: [
             "Built real-time flight dashboards for streaming drone telemetry.",
@@ -32,7 +44,7 @@ const timelineItems = [
         type: "experience",
         role: "Web Designer Intern",
         company: "USIP",
-        location: "Remote",
+        location: "Onsite, Delhi, India",
         period: "Jan 2024 - Mar 2024",
         description: [
             "Designed and developed responsive web interfaces for university portals.",
