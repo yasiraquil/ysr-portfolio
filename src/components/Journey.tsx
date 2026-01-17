@@ -6,18 +6,6 @@ import { Terminal, GitCommit, MapPin, Calendar } from "lucide-react";
 const timelineItems = [
     {
         type: "experience",
-        role: "Software Developer Intern",
-        company: "Growage",
-        location: "Delhi, India",
-        period: "Nov 2025 - Dec 2025",
-        description: [
-            "Developed an AI self-discovery platform capable of ingesting 10k+ data points.",
-            "Reduced latency by 40% using Vercel AI SDK and optimized database queries.",
-            "Implemented OAuth onboarding and built data pipelines with Postgres, pgvector, and Neo4j."
-        ]
-    },
-    {
-        type: "experience",
         role: "Ethical Hacking and Penetration Testing Intern",
         company: "CDAC, Noida",
         location: "Remote",
@@ -30,9 +18,21 @@ const timelineItems = [
     },
     {
         type: "experience",
+        role: "Software Developer Intern",
+        company: "Growage",
+        location: "Onsite, Delhi, India",
+        period: "Jun 2025 - Jul 2025",
+        description: [
+            "Developed an AI self-discovery platform capable of ingesting 10k+ data points.",
+            "Reduced latency by 40% using Vercel AI SDK and optimized database queries.",
+            "Implemented OAuth onboarding and built data pipelines with Postgres, pgvector, and Neo4j."
+        ]
+    },
+    {
+        type: "experience",
         role: "Web Developer Intern",
         company: "Aerialbots - IIF",
-        location: "Onsite,Delhi, India",
+        location: "Onsite, Delhi, India",
         period: "Sep 2024 - Nov 2024",
         description: [
             "Built real-time flight dashboards for streaming drone telemetry.",
