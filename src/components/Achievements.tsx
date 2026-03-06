@@ -28,7 +28,7 @@ const achievements = [
         icon: <Code size={24} />,
         color: "text-pink-400",
         border: "border-pink-500/30",
-        link: "https://codolio.com/profile/go0hDC9f",
+        link: "#",
         permission: "r--"
     },
     {

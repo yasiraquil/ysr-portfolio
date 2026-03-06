@@ -123,7 +123,7 @@ export default function Contact() {
 
                         <div className="pt-6">
                             <a
-                                href="https://drive.google.com/file/d/13aXSU958F5-m363wZqZKuNP84KF1AKwI/view?usp=drive_link"
+                                href="https://drive.google.com/file/d/1muYd2a8DLjYhGYr3AaycDYDjr-rDSXo5/view?usp=sharing"
                                 target="_blank"
                                 rel="noopener noreferrer"
                                 className="inline-flex items-center gap-2 px-6 py-3 bg-slate-900 border border-slate-800 hover:border-green-500 text-green-500 hover:text-green-400 rounded-sm transition-all group"
