@@ -6,7 +6,7 @@ import { Award, Trophy, Code, Star, Terminal, ShieldCheck } from "lucide-react";
 const achievements = [
     {
         title: "Meta Hacker Cup",
-        subtitle: "Top 3,000 Global Rank (2025)",
+        subtitle: "Top 2,000 Global Rank (2025)",
         icon: <Trophy size={24} />,
         color: "text-blue-400",
         border: "border-blue-500/30",
@@ -15,7 +15,7 @@ const achievements = [
     },
     {
         title: "CodeChef",
-        subtitle: "World Rank 744 (Rating 1622)",
+        subtitle: "World Rank 88 in starters 221(Highest Rating 1622)",
         icon: <Code size={24} />,
         color: "text-yellow-400",
         border: "border-yellow-500/30",

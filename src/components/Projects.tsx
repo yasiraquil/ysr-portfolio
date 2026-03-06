@@ -9,7 +9,7 @@ const projects = [
         subtitle: "Realtime Collaborative Whiteboard",
         description: "A real-time whiteboard supporting sub-200 ms WebSocket sync for 10–50 concurrent users per room. Deployed a hybrid Next.js + Node.js architecture achieving 99.9% uptime.",
         tags: ["Next.js", "TypeScript", "WebSocket", "PostgreSQL", "Docker"],
-        links: { demo: "https://draw-app-frontend-gamma.vercel.app", github: "https://github.com/yasiraquil/draw-app2" },
+        links: { demo: "https://drawsync.space/", github: "https://github.com/yasiraquil/draw-app2" },
         color: "text-blue-400",
         permissions: "drwxr-xr-x",
         size: "4.2MB"
